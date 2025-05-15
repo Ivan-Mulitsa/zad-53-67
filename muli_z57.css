@@ -1,0 +1,14 @@
+* {
+ font-size: 34pt;
+ background-color: yellow;   
+}
+
+p.klasa_nieuniwersalna_mulitsa {
+    font-size: 32pt;
+    color: purple;
+}
+
+.klasa_nieuniwersalna_mulitsa {
+    font-size: 26pt;
+    color: green;
+}
